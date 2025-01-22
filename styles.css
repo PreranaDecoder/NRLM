@@ -1,0 +1,19 @@
+@media (max-width: 768px) {
+  .flex-wrap > div {
+    flex: 0 0 100%;
+    justify-content: center;
+  }
+
+  .absolute {
+    position: relative;
+    text-align: center;
+  }
+
+  .w-48 {
+    width: 100%;
+  }
+
+  .w-36 {
+    width: 90%;
+  }
+}
